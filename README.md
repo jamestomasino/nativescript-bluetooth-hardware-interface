@@ -9,7 +9,7 @@ device and a nativescript application.
 ## Parts
 
 - Arduino Uno (for prototyping)
-- AtTiny85 microcontroller (for final device)
+- ATTiny85 microcontroller (for final device)
 - HC-06 Serial Bluetooth Transceiver
 - Potentiometer
 - Push Buttons
