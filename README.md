@@ -30,13 +30,11 @@ hardware. Adjust something on screen based on hardware inputs.
 
 ### 3.0 Device Optimization
 
-#### 3.1 ATTiny85 vs PIC16FF88
+#### 3.1 Programming the ATTiny85
 
-#### 3.2 Programming the microcontroller
+#### 3.2 Designing the PCB
 
-#### 3.3 Designing the PCB
-
-#### 3.4 Assembling the hardware
+#### 3.3 Assembling the hardware
 
 
 ### 4.0 Library creation
