@@ -6,6 +6,14 @@ The NativeScript Bluetooth Hardware Interface (NBHI) is a plan to
 build a platform for communicating between a micro-sized hardware
 device and a nativescript application.
 
+## Parts
+
+- Arduino Uno (for prototyping)
+- AtTiny85 microcontroller (for final device)
+- HC-06 Serial Bluetooth Transceiver
+- Potentiometer
+- Push Buttons
+
 ## Implementation Plan
 
 Effectively build a circuit that can translate digital and analog
