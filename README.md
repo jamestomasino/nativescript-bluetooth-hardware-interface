@@ -1,0 +1,1 @@
+# nativescript-bluetooth-hardware-interface
